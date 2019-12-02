@@ -1,18 +1,4 @@
-/**
-  ******************************************************************************
-  * @file    vr_sample_control_test_V1_demo.ino
-  * @author  Nichol
-  * @brief   This file provides a demostration on 
-              how to control drone by using VoiceRecognitionModule
-  ******************************************************************************
-  * @note:
-        voice control drone
-  ******************************************************************************
-  * @section  HISTORY
-    
-    2013/06/13    Initial version.
-  */
-  
+ 
 #include <SoftwareSerial.h>
 #include "VoiceRecognitionV3.h"
 
